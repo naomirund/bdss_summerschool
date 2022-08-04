@@ -1,0 +1,6 @@
+create dir bigdatanotes
+start git using git init
+use vim
+create file
+save vim
+
